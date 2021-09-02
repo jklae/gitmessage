@@ -27,4 +27,4 @@
 #   5. Use the body to explain what and why vs. how
 #   6. Can use multiple lines with "-" for bullet points in body
 # ------------------
-# git config commit.template .gitmessage
+# git config commit.template ../gitmessage/.gitmessage
